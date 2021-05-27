@@ -1,7 +1,6 @@
 ### Hi there, I'm erytheboss
 
 - Python dev
-- Flutter dev
 - Almost fullstack web dev
 - Learning C# and C++
 
