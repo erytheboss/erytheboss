@@ -1,4 +1,4 @@
-### Hi there im erytheboss
+### Hi there I'm erytheboss
 
 - Python dev
 - Flutter dev
